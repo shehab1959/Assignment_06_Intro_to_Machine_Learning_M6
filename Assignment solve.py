@@ -209,3 +209,8 @@ plt.title("Survival Rate by Port of Embarkation")
 plt.xlabel("Port (C = Cherbourg, Q = Queenstown, S = Southampton)")
 plt.ylabel("Survival Probability")
 plt.show()
+
+
+
+#Task 5: Conclusion and Insights
+print("---Task 5 answer:--- \nExploratory Data Analysis of the Titanic dataset shows that passenger survival was strongly driven by demographic and socioeconomic factors rather than chance. Sex, Ticket Class, and Age emerged as the top three predictors of survival. Female passengers (74.2% survival) and young children were prioritized during evacuation, resulting in significantly higher survival rates than adult males (18.9% survival). Additionally, 1st-class passengers (63.0% survival) were nearly three times more likely to survive than 3rd-class passengers (24.2% survival), highlighting how socioeconomic status and cabin proximity to the upper deck directly affected access to lifeboats. ")
